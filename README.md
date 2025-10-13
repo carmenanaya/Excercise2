@@ -1,4 +1,4 @@
-# Excercise2
+# Excercise1
 Python-övningar: Variabler, Datatyper, Loopar
 
 n 1. Variabler & datatyper
